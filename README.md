@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Raj-Joshi-14
+- 👀 I’m interested in implementing innovative ideas into real life applications
+- 🌱 I’m currently learning BlockChain
+- 💞️ Would love to collaborate on projects
+- 📫 How to reach me rajdilipjoshi227@gmail.com
+- ⚡ Fun fact: The World is going to get overloaded with tech
