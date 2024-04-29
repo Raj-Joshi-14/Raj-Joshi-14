@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raj-Joshi-14
+- 👋 Hi, I’m Raj Joshi
 - 👀 I’m interested in implementing innovative ideas into real life applications
 - 🌱 I’m currently learning BlockChain
 - 💞️ Would love to collaborate on projects
