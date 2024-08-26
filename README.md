@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raj Joshi
 - 👀 I’m interested in implementing innovative ideas into real life applications
-- 🌱 I’m currently learning BlockChain
+- 🌱 I’m currently learning Solidity Programming
 - 💞️ Would love to collaborate on projects
 - 📫 How to reach me rajdilipjoshi227@gmail.com
 - ⚡ Fun fact: The World is going to get overloaded with tech
