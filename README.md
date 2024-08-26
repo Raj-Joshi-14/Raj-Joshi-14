@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Solidity Programming
 - 💞️ Would love to collaborate on projects
 - 📫 How to reach me rajdilipjoshi227@gmail.com
-- ⚡ Fun fact: The World is going to get overloaded with tech
+- ⚡ Fun fact: Typing at the speed of thought... or at least, trying to!
